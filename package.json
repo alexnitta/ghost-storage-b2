@@ -3,11 +3,11 @@
   "version": "0.0.7",
   "description": "Storage adapter for Ghost that uses Backblaze B2",
   "main": "index.js",
-  "author": "Kevin Lang <me@gnalck.com>",
+  "author": "Alex Nitta <a.j.nitta@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/gnalck/ghost-storage-b2.git"
+    "url": "git@github.com:alexnitta/ghost-storage-b2.git"
   },
   "dependencies": {
     "backblaze-b2": "1.7.0",
