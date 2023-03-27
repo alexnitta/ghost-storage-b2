@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "backblaze-b2": "1.7.0",
-    "ghost-storage-base": "0.0.4",
+    "ghost-storage-base": "1.0.0",
     "bent": "7.3.12",
     "upath": "2.0.1"
   }
