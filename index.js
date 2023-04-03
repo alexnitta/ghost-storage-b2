@@ -18,7 +18,7 @@ class Store extends BaseStore {
       this.lastAuthTime = Date.now();
     });
 
-    this.pathPrefix = config.pathPrefix;
+    this.pathPrefix = config.pathPrefix || "";
     this.bucketId = config.bucketId;
     this.bucketName = config.bucketName;
     this.host = config.host;
